@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>saltAMP</title>
     <link>https://github.com/atrouwee/moonlabor-releases</link>
     <description>Releases of saltAMP by Moonlabor B.V.</description>
     <language>en</language>
+    <item>
+      <title>saltAMP 0.1.1</title>
+      <pubDate>Wed, 04 Nov 2026 19:11:37 +0000</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>saltAMP updates itself: it checks once a day and asks before installing.</li><li>The name is saltAMP (was saltSES), with the speaker mark as its logo.</li><li>Settings: Language (English, Nederlands, Türkçe) and About (privacy, licences).</li><li>Backups are saved whole or not at all, and never over an earlier one.</li><li>The page says when it is reading the speakers, and when it lost contact.</li></ul>]]></description>
+      <enclosure url="https://github.com/atrouwee/moonlabor-releases/releases/download/saltamp-v0.1.1/saltAMP-0.1.1-60.dmg" length="14418508" type="application/octet-stream" sparkle:edSignature="nbUh12kMccKZuQyVhwbNHyqnCPVxYyEIjk4ju0XwU0ANx64MckmeFUs3wUX39ReJv1r6K7ZISaGkDgxb+/ZFBA=="></enclosure>
+    </item>
   </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: tyRrAABKmiipQch2oscT5J3KakWneRQXfRDjVsfkz6fhs5mF+pGqeIP3CZFatVjlGhjW/sj/62pAMgXoLkSACQ==
+length: 1703
+-->
