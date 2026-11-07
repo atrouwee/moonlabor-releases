@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>saltLight</title>
     <link>https://github.com/atrouwee/moonlabor-releases</link>
     <description>Releases of saltLight by Moonlabor B.V.</description>
     <language>en</language>
+    <item>
+      <title>saltLight 0.2.0</title>
+      <pubDate>Sat, 07 Nov 2026 13:12:31 +0000</pubDate>
+      <sparkle:version>190</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A new left side: what plays now, then the queue. Press ▶ to play a scene, Next for the next one, and choose how long the crossfade takes.</li><li>New scene at the bottom left; Reset and Save at the bottom right. saltLight names each scene for you.</li><li>The scene panel on the right rests until you pick a scene in the queue, or make a new one.</li><li>Two sites: ASOP and AJ&#x27;s Kitchen. Open the pill at the top right to switch. Each site has its own queue and its own Bridge.</li><li>Live plays what plays now on the site you are on. In AJ&#x27;s Kitchen it streams to the kitchen strip, and the four ceiling spots follow its brightness and warmth.</li><li>The window fits a smaller screen too, down to an iPad&#x27;s width.</li></ul>]]></description>
+      <enclosure url="https://github.com/atrouwee/moonlabor-releases/releases/download/saltlight-v0.2.0/saltLight-0.2.0-190.dmg" length="47213185" type="application/octet-stream" sparkle:edSignature="P/NM6hit+TvOtAnGpJ2uT2X2aNpsGvY9Dz7beJq5YVpFdQuLXU8rK9e9jDsprD3BLER0nM/ZUeuoJM2jT2U4CQ=="></enclosure>
+    </item>
   </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: Q1733V91GgYfKWH41z8Xp44B/IDtq4zR56eZJ4M4kjCty2hawnWFA4aVjGkG5ZG4puYhVnyDUav3uoegPpFGCA==
+length: 2050
+-->
