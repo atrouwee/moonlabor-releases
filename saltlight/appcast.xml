@@ -24,8 +24,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
       <description><![CDATA[<ul><li>Presets under the queue: each site&#x27;s own three, added to the queue with +. Omakase is yours to shape once.</li><li>Every card in the queue and the presets plays its scene, as the room does.</li><li>Add scene sits after the last scene in the queue; on the right, Send to cue and Reset.</li><li>Preview and Live switch what the middle shows; On the lights, beside Hold and Next, drives the room and hands it back.</li><li>The site pill works like saltFrame&#x27;s library: each site with its place, the current one ticked.</li><li>One ring at the top shows what saltLight is doing: finding, pairing, reading, going on the lights, handing back.</li><li>Map the lights: tap a strip on the plan and pick which Hue light it is.</li><li>When saltLight loses its engine, the left side dims and says so, with Try again.</li><li>Keys: press ? to see them. ⌘Z undoes the last change to the queue.</li><li>The lights always go back to Hue when saltLight quits, sleeps or stops unexpectedly.</li></ul>]]></description>
       <enclosure url="https://github.com/atrouwee/moonlabor-releases/releases/download/saltlight-v0.3.0/saltLight-0.3.0-212.dmg" length="47456436" type="application/octet-stream" sparkle:edSignature="ckLdxcypcwYDB/+w3hroR6CXVCz+et84eIO6PHq/CUzd8azXdSC1rEiLK21olM4BWSY+/QGV5Dc6YIJR/D7ICQ=="></enclosure>
     </item>
+    <item>
+      <title>saltLight 0.3.1</title>
+      <pubDate>Sat, 07 Nov 2026 18:56:30 +0000</pubDate>
+      <sparkle:version>214</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A Time-lapse pill on the room: play the scene up to 300× faster, to show someone how it moves. It changes only what this window shows, never the lights.</li></ul>]]></description>
+      <enclosure url="https://github.com/atrouwee/moonlabor-releases/releases/download/saltlight-v0.3.1/saltLight-0.3.1-214.dmg" length="47457724" type="application/octet-stream" sparkle:edSignature="q2clSQ3l8KwL6Hb/GyUfEFfHu54KxYTrim2MP76cCg1d3ozMd2KEYRFtXj1PNCeAPRBd0DcdIoeJzulAkbT+AA=="></enclosure>
+    </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vtSOsZ6+71MWpdIPtL87Lk/H4FHRXZRyOI1cdKOBaN57N5aHOtBPZOVnOpxIlS3ckn3mvO2wILvOtqXlFXumCw==
-length: 3705
+edSignature: 2wbJcay9Ak6WaeC0xYB5aZBarvkfimXObwXpow/AAq+gJEYBvnnsXxAR4bD+nvvDkgw8MhkPkQXLCb14jO5VDA==
+length: 4528
 -->
